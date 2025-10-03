@@ -17,12 +17,10 @@
 <h2 align="center">About Me 💻</h2>
 
 <p align="center">
-✨ I’m the founder of <b>Life Code</b> on TikTok, Facebook & YouTube <br>
 ✨ Passionate about Frontend Development (HTML, CSS, JavaScript, React) <br>
-✨ Sharing simple and useful coding tutorials <br>
+✨ Sharing simple and useful code <br>
 ✨ Always learning and improving every day  
 </p>
-
 
 <h2 align="center">🛒 My Services</h2>
 
@@ -30,7 +28,6 @@
 ✨ I create <b>Web Projects</b> and <b>Online Stores</b> <br>
 ✨ I design <b>Personal Portfolios</b> <br>
 ✨ I help with <b>University & School Assignments</b> <br>
-🎁 Special Offer: <b>30% Discount</b> for students
 </p>
 
 <p align="center">
@@ -46,23 +43,17 @@
   <img alt="html" src="https://skillicons.dev/icons?i=html" width="60"/>
   <img alt="css" src="https://skillicons.dev/icons?i=css" width="60"/>
   <img alt="js" src="https://skillicons.dev/icons?i=javascript" width="60"/>
-  <img alt="react" src="https://skillicons.dev/icons?i=react" width="60"/>
   <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind" width="60"/>
-  <img alt="sass" src="https://skillicons.dev/icons?i=sass" width="60"/>
   <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
   <img alt="git" src="https://skillicons.dev/icons?i=git" width="60"/>
   <img alt="github" src="https://skillicons.dev/icons?i=github" width="60"/>
   <img alt="python" src="https://skillicons.dev/icons?i=python" width="60"/>
-  <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-  <img alt="postman" src="https://skillicons.dev/icons?i=postman" width="60"/>
 </p>
-
----
 
 <h2 align="center">🎯 My Goals</h2>
 
 <p align="center">
-🚀 Build an engaging tech community through Life Code <br>
+🚀 Code. Connect. Grow.<br>
 🎬 Create fun and educational content for everyone <br>
 💡 Grow as a professional Frontend Developer  
 </p>
