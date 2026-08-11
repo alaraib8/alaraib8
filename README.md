@@ -1,6 +1,6 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/22mahmoud/StandWithPalestine/main/public/StandWithPalestine.svg)](https://standwithpalestine.vercel.app)
 <h1 align="center"> Hi there! 👋 I'm Laraib Ali</h1>
-<h2 align="center">About Me 💻</h2><p align="center">Enrolled in Web & App Development at Saylani Mass IT Training Program, focusing on front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, MongoDB, MySQL) with hands-on project experience </p>
+<h2 align="center">About Me 💻</h2><p align="center">I am a passionate and motivated learner currently pursuing an AI & Data Science course at SMIT. I have a background in software development and a strong interest in technology, programming, Artificial Intelligence, and Data Science. I am currently building my knowledge from the basics and continuously improving my technical skills through practical learning and projects. I am eager to explore new technologies, gain real-world experience, and grow as an AI & Data Science professional.</p>
 <!-- <img width="1584" height="396" alt="Laraib Ali" src="https://github.com/user-attachments/assets/b835c77e-f4df-4d32-979b-9589011a02d3" />  -->
 
 <p align="center"><a href="https://www.linkedin.com/in/laraib-ali-b0072b1b9/" target="_blank">
@@ -17,9 +17,13 @@
 <h2 align="center">About Me 💻</h2>
 
 <p align="center">
-✨ Passionate about Frontend Development (HTML, CSS, JavaScript, React) <br>
-✨ Sharing simple and useful code <br>
-✨ Always learning and improving every day  
+🎓 Currently learning **AI & Data Science at SMIT**
+💻 Background in **Web Development**
+🌱 Currently learning **Python, Data Science & AI**
+🔭 Working on personal and learning-based projects
+🧠 Interested in **Artificial Intelligence, Data Science & Software Development**
+📚 Always learning and exploring new technologies
+🎯 Goal: Build practical and impactful technology solutions  
 </p>
 
 <h2 align="center">🛒 My Services</h2>
