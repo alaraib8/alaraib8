@@ -17,13 +17,13 @@
 <h2 align="center">About Me 💻</h2>
 
 <p align="center">
-🎓 Currently learning **AI & Data Science at SMIT**
-💻 Background in **Web Development**
-🌱 Currently learning **Python, Data Science & AI**
-🔭 Working on personal and learning-based projects
-🧠 Interested in **Artificial Intelligence, Data Science & Software Development**
-📚 Always learning and exploring new technologies
-🎯 Goal: Build practical and impactful technology solutions  
+🎓 Currently learning AI & Data Science at SMIT </b> <br>
+💻 Background in Web Development </b> <br>
+🌱 Currently learning Python, Data Science & AI </b> <br>
+🔭 Working on personal and learning-based projects</b> <br>
+🧠 Interested in Artificial Intelligence, Data Science & Software Development</b> <br>
+📚 Always learning and exploring new technologies</b> <br>
+🎯 Goal: Build practical and impactful technology solutions</b> <br>
 </p>
 
 <h2 align="center">🛒 My Services</h2>
@@ -31,7 +31,6 @@
 <p align="center">
 ✨ I create <b>Web Projects</b> and <b>Online Stores</b> <br>
 ✨ I design <b>Personal Portfolios</b> <br>
-✨ I help with <b>University & School Assignments</b> <br>
 </p>
 
 <p align="center">
