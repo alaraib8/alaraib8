@@ -17,13 +17,13 @@
 <h2 align="center">About Me 💻</h2>
 
 <p align="center">
-🎓 Currently learning AI & Data Science at SMIT </b> <br>
-💻 Background in Web Development </b> <br>
-🌱 Currently learning Python, Data Science & AI </b> <br>
-🔭 Working on personal and learning-based projects</b> <br>
 🧠 Interested in Artificial Intelligence, Data Science & Software Development</b> <br>
-📚 Always learning and exploring new technologies</b> <br>
 🎯 Goal: Build practical and impactful technology solutions</b> <br>
+📚 Always learning and exploring new technologies</b> <br>
+🔭 Working on personal and learning-based projects</b> <br>
+🎓 Currently learning AI & Data Science at SMIT</b> <br>
+💻 Background in Web Development </b> <br>
+
 </p>
 
 <h2 align="center">🛒 My Services</h2>
